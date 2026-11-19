@@ -1,6 +1,6 @@
 streamlit
 pandas
 matplotlib
-transformers
+transformers<5
 torch
 sentencepiece
